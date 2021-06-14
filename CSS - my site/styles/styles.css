@@ -1,0 +1,147 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+
+}
+span{
+    text-decoration: underline;
+}
+p{
+    line-height: 2;   
+}
+
+h1{
+    font-size: 565.5%;
+    margin: 50px auto 0 auto;
+    font-family: 'sacramento', cursive;
+    color:  #66BFBF;
+
+}
+h2{
+    font-size: 2.5rem;
+   color: #66BFBF;
+   font-weight: normal;
+   line-height: 1;
+}
+
+h3, .footer-link{
+    color: #66BFBF;
+}
+
+.top-con{
+    background-color: #e4f9f5;
+    padding-top: 100px;
+    position: relative;
+}
+
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.bot-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.middle-cointainer {
+    margin: 100px 0;
+}
+
+.profile img{
+    height: auto;
+    width: 200px;
+    margin-top: 100px;
+    border-radius: 50%;
+}
+
+.intro{
+  color:  #40514E;
+  width: 30%;
+  margin: auto;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    margin: 100px auto;
+    width: 4%;
+    border-bottom-style:none ;
+
+}
+
+.skill-1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-msg{
+    width: 30%;
+    margin: 40px auto 60px;
+}
+
+.btn{
+    color: white;
+    text-decoration: none;
+}
+
+button{
+    background-color:#11999E;
+    height: 30px;
+    width: 120px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 4px 0 #000000;
+    text-shadow: 1px 1px 5px #000000;
+    border: solid #66BFBF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: auto auto 50px;
+}
+
+button:hover{
+    border: solid #30E3CB 1px;
+   background: #2BC4AD;
+   border-radius: 5px;
+   text-decoration: none;
+}
+
+.bottom-container{
+    background:#66BFBF;
+    Padding: 50px 0 20px;
+
+
+}
+
+.footer-link{
+    color:#11999E;
+    text-decoration: none;
+    margin:auto 20px auto 20px;
+}
+
+a:hover{
+   color: #eaf6f6;
+}
+
+
+.bottom-container p{
+    color:#EAF6F6;
+    font-size: small;
+}
